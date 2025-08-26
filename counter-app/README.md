@@ -20,19 +20,6 @@ This project demonstrates how to extract reusable stateful logic into a hook, in
 
 ---
 
-## 📂 Project Structure
-
-counter-app/
-│── src/
-│ │── hooks/
-│ │ └── useCounter.js
-│ │── App.jsx
-│ │── index.jsx
-│ └── ...
-│── package.json
-│── README.md
-
----
 
 📌 *Future Improvements*
 
