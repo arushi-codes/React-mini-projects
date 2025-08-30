@@ -4,8 +4,6 @@ A collection of **small, focused React.js projects** I’m building to sharpen m
 Each project covers a **specific React concept** (state, props, hooks, forms, API calls, etc.) in a **hands-on, practical** way.  
 
 ---
-
-
 Each project is self-contained with its own:  
 - `README.md`  
 - `package.json`  
