@@ -11,7 +11,7 @@ Built as part of my React learning journey.
 ---
 
 ## 📸 Screenshot  
-![Tarot Card Screenshot]()
+![Tarot Card Screenshot](./tarot-reading.png)
 
 ---
 
